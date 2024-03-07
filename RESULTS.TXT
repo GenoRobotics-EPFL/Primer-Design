@@ -1,0 +1,61 @@
+ordinal linear: 
+mean: 32.38207345428952
+median: 17.125469034018476
+std: 28.789648055452417
+
+sum of cluster scores: 24.43377197648844
+divided by number of clusters: 1.1106259989312928
+
+ordinal linear 50 cluster:
+mean: 36.18472788517691
+median: 47.754649130697786
+std: 24.471168648761296
+
+one hot linear:
+mean: 29.06103827713978
+median: 18.323899945225488
+std: 28.753242393748245
+
+ordinal linear autoencoder: 
+mean: 3.913759445145823
+median: 0.29258098223615464
+std: 16.36139480048737
+(one very big cluster)
+
+one hot convolutional: 
+mean: 18.150877182373428
+median: 0.8394160583941607
+std: 32.56335781866611
+
+percent of good clusters: 0.7777777777777778
+sum of cluster scores: 19.030610835169895
+divided by number of clusters: 2.114512315018877
+(two very big clusters)
+
+Kmeans:
+mean: 6.9138759954642754
+median: 0.8394160583941607
+std:20.772072121395453
+
+
+DNABERT6:
+mean: 57.795809966598696
+median: 58.73519561426265
+st: 8.175670798569785
+
+convolutional autoencoder:
+mean: 11.30062754526719
+median: 1.4292013101536911
+std: 19.496737280323014
+
+one hot linear:
+
+DNABERT2?
+
+LSTM?
+
+
+
+
+
+
